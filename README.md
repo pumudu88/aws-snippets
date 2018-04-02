@@ -1,2 +1,2 @@
 # aws-snippets
-aws reusable small components
+aws small reusable components
